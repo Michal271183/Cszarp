@@ -1,0 +1,4 @@
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\bin\Debug\WorkFramework.dll
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\bin\Debug\WorkFramework.pdb
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\obj\Debug\WorkFramework.dll
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\obj\Debug\WorkFramework.pdb

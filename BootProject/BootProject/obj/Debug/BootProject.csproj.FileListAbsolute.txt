@@ -1,0 +1,16 @@
+c:\users\michal_b\documents\visual studio 2012\Projects\BootProject\BootProject\bin\Debug\BootProject.exe.config
+c:\Users\Michal_B\Documents\Visual Studio 2012\Projects\BootProject\BootProject\bin\Debug\BootProject.exe
+c:\Users\Michal_B\Documents\Visual Studio 2012\Projects\BootProject\BootProject\bin\Debug\BootProject.pdb
+c:\Users\Michal_B\Documents\Visual Studio 2012\Projects\BootProject\BootProject\bin\Debug\WorkFramework.dll
+c:\Users\Michal_B\Documents\Visual Studio 2012\Projects\BootProject\BootProject\bin\Debug\WorkFramework.pdb
+c:\Users\Michal_B\Documents\Visual Studio 2012\Projects\BootProject\BootProject\obj\Debug\BootProject.csprojResolveAssemblyReference.cache
+c:\Users\Michal_B\Documents\Visual Studio 2012\Projects\BootProject\BootProject\obj\Debug\BootProject.exe
+c:\Users\Michal_B\Documents\Visual Studio 2012\Projects\BootProject\BootProject\obj\Debug\BootProject.pdb
+S:\Cszarp\BootProject\BootProject\bin\Debug\BootProject.exe.config
+S:\Cszarp\BootProject\BootProject\obj\Debug\BootProject.exe
+S:\Cszarp\BootProject\BootProject\obj\Debug\BootProject.pdb
+S:\Cszarp\BootProject\BootProject\bin\Debug\BootProject.exe
+S:\Cszarp\BootProject\BootProject\bin\Debug\BootProject.pdb
+S:\Cszarp\BootProject\BootProject\obj\Debug\BootProject.csprojResolveAssemblyReference.cache
+S:\Cszarp\BootProject\BootProject\bin\Debug\_WorkFramework.dll
+S:\Cszarp\BootProject\BootProject\bin\Debug\_WorkFramework.pdb

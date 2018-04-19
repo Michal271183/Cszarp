@@ -1,0 +1,4 @@
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\bin\Release\WorkFramework.dll
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\bin\Release\WorkFramework.pdb
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\obj\Release\WorkFramework.dll
+c:\users\michal_b\documents\visual studio 2012\Projects\WorkFramework\WorkFramework\obj\Release\WorkFramework.pdb

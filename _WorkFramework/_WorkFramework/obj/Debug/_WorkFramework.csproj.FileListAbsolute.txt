@@ -1,0 +1,4 @@
+S:\Cszarp\_WorkFramework\_WorkFramework\bin\Debug\_WorkFramework.dll
+S:\Cszarp\_WorkFramework\_WorkFramework\bin\Debug\_WorkFramework.pdb
+S:\Cszarp\_WorkFramework\_WorkFramework\obj\Debug\_WorkFramework.dll
+S:\Cszarp\_WorkFramework\_WorkFramework\obj\Debug\_WorkFramework.pdb
